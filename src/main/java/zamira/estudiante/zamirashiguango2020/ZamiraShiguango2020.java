@@ -20,6 +20,7 @@ public class ZamiraShiguango2020 {
         float datos = 0;
         float z = 0;
         
+        
 
         Scanner sandy = new Scanner(System.in);
 
